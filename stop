@@ -1,0 +1,62 @@
+[33mcommit 290b1ebdc100f0eb6efb941da529bbbf267ab705[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Wed Feb 12 01:36:56 2025 +0530
+
+    hey file again modifid
+
+[33mcommit 217c81af0c6c90c95c0bce0a3600c305d818bd55[m
+Merge: 1d97b67 9ebeea2
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Wed Feb 12 00:53:11 2025 +0530
+
+    conflict fixed
+
+[33mcommit 1d97b671c2322215d127f714980c575f6331eeac[m
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Wed Feb 12 00:48:51 2025 +0530
+
+    negative ans added
+
+[33mcommit 9ebeea29b50394cef68515e22fb28e276ae818e1[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Wed Feb 12 00:46:14 2025 +0530
+
+    positive answer added
+
+[33mcommit a1694b8d8a71df86925c835c219e1e2bb66875e0[m
+Merge: 4e5b451 d71f1fc
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Wed Feb 12 00:32:11 2025 +0530
+
+    Merge branch 'feature'
+    seperate branches merged # the commit.
+
+[33mcommit d71f1fcf54280ab489cf0502c5af723850d97575[m
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Wed Feb 12 00:18:04 2025 +0530
+
+    index file modified
+
+[33mcommit 4e5b451608cfcd4e47660c23382af62bd14761d1[m
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Wed Feb 12 00:11:34 2025 +0530
+
+    hey file modified
+
+[33mcommit fb50209aaea79d7367a44355353ce12b818091b7[m
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Tue Feb 11 22:38:33 2025 +0530
+
+    hey file edited
+
+[33mcommit cef0d5c18b20308461f94760c28599f3685d76fd[m
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Tue Feb 11 22:14:53 2025 +0530
+
+    second file added
+
+[33mcommit 1083fb5be35531849b5ead5cd6388c5e3a7aaa94[m
+Author: Jyothika Shaji <jyothikashaji56@gmail.com>
+Date:   Tue Feb 11 21:41:56 2025 +0530
+
+    Initial commit
